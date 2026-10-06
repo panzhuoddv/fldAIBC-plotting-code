@@ -1,6 +1,6 @@
 # fldAIBC carrier plotting code
 
-Reproducible plotting notebooks for the comparative-genomic and population-scale metagenomic study of bacterial `fldAIBC` carriers. Each manuscript figure has one notebook. The package contains the processed inputs used by the supplied plotting code, rather than raw sequencing reads or a complete upstream analysis pipeline.
+Reproducible plotting notebooks for the comparative-genomic and population-scale metagenomic study of bacterial `fldAIBC` carriers. Each manuscript figure has one notebook. 
 
 ## Repository layout
 
@@ -28,7 +28,6 @@ Reproducible plotting notebooks for the comparative-genomic and population-scale
 └── .gitignore
 ```
 
-Input files are byte-identical copies of the original plotting inputs. Filenames have been adjusted where necessary to match the final panel order; `data_manifest.tsv` records the original filenames. Git attributes disable line-ending conversion for data, notebooks and outputs, preserving their checksum integrity after cloning. Notebook comments and documentation are in English. Original source files have not been edited.
 
 ## Installation and execution
 
