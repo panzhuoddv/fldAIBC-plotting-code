@@ -56,9 +56,9 @@ The order of the nonempty plotting cells in the supplied Figure 2, 3 and 4 noteb
 
 | Notebook | Final panels | Content |
 | --- | --- | --- |
-| `figure1.ipynb` | b | Component co-occurrence, originally named Figure 1a |
+| `figure1.ipynb` | b | Component co-occurrence |
 | | c | FldBC phylogeny and iTOL annotations, rendered externally |
-| | d | Accessory-gene positional frequencies and representative loci, originally named Figure 1c; exported as upper and lower components |
+| | d | Accessory-gene positional frequencies and representative loci; exported as upper and lower components |
 | `figure2.ipynb` | a–d | Global carrier prevalence; prevalence versus abundance; carrier-group abundance; within-sample composition, richness and dominance |
 | `figure3.ipynb` | a–d | Disease association landscape; CRC cohort estimates; coarse-to-resolved carriage prevalence; lineage contrasts and carriage-definition robustness |
 | `figure4.ipynb` | a–d | Prediction performance and permutation null; adjusted community associations; cross-study reproducibility; FastSpar correlations across contexts |
@@ -79,11 +79,9 @@ The notebook checks and documents these inputs but does not redraw the tree with
 
 Figures 3 and 4 plot finalized summary tables; their upstream association models, prediction training, permutation testing and FastSpar inference are not rerun. Figure 2 retains the source notebook's count aggregation and regenerates four derived TSV files under `outputs/figure2/source_data/`. The package does not automatically assemble the separately exported panels into final composite manuscript figures.
 
-Figures 1d, 2, 3 and 4 export SVG, PDF, PNG and TIFF. Figure 1b retains the original PDF/PNG-only exports. Raster dimensions and DPI follow the source plotting code. TIFF exports use lossless uncompressed storage because the local Pillow/libtiff LZW encoder terminated the Python process; this changes storage compression, not the plotted values or pixel resolution.
-
+Figures 1d, 2, 3 and 4 export SVG, PDF, PNG and TIFF. Figure 1b retains the original PDF/PNG-only exports. Raster dimensions and DPI follow the source plotting code.
 The source font settings are retained. Arial is used where available; font substitution on another operating system can change text placement. Exact raster identity across operating systems and plotting-library versions is therefore not guaranteed. PDF metadata and generated SVG identifiers can also vary between executions.
 
-Figure 1b retains an existing layout issue in the supplied plotting code: some left-side count labels overlap the Fld row labels. This packaging step does not redesign the original figure.
 
 The Figure 2 country boundaries are a packaged Natural Earth 1:110m asset. Natural Earth map data are in the public domain under its [terms of use](https://www.naturalearthdata.com/about/terms-of-use/). No map download is needed during execution.
 
