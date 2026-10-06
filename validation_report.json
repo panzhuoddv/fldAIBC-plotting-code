@@ -1,0 +1,95 @@
+{
+  "validation_date": "2026-10-06",
+  "python": "3.9.13",
+  "loaded_plotting_versions": {
+    "numpy": "1.21.6",
+    "pandas": "1.4.3",
+    "matplotlib": "3.5.2",
+    "seaborn": "0.11.2",
+    "Pillow": "9.2.0"
+  },
+  "inputs": {
+    "files": 36,
+    "byte_identical_to_originals": true,
+    "manifest": "data_manifest.tsv"
+  },
+  "notebooks": [
+    {
+      "path": "notebooks/figure1.ipynb",
+      "execution": "passed",
+      "working_directory": ".",
+      "seconds": 5.59,
+      "code_cells": 6,
+      "error_outputs": 0,
+      "sha256": "8cb4cb5124f30b39def67f30c88397875ce58493e56d77f94e393409f37ad0fe"
+    },
+    {
+      "path": "notebooks/figure2.ipynb",
+      "execution": "passed",
+      "working_directory": "notebooks",
+      "seconds": 15.72,
+      "code_cells": 5,
+      "error_outputs": 0,
+      "sha256": "96bf7942e6cc9b34fc83742062c05962ec38f6418f6a1cea1f19a979b44d71a9"
+    },
+    {
+      "path": "notebooks/figure3.ipynb",
+      "execution": "passed",
+      "working_directory": ".",
+      "seconds": 7.66,
+      "code_cells": 5,
+      "error_outputs": 0,
+      "sha256": "6b24a95f797f9bafbe2b85b227cc8fd1d9d891086256c822a83662d411f8681c"
+    },
+    {
+      "path": "notebooks/figure4.ipynb",
+      "execution": "passed",
+      "working_directory": "notebooks",
+      "seconds": 8.45,
+      "code_cells": 5,
+      "error_outputs": 0,
+      "sha256": "fc3ca3be395975a8704dabf2f5a214579f5b22ba55b452251b8ee536eb357b8d"
+    }
+  ],
+  "static_checks": {
+    "nbformat_valid": true,
+    "syntax_valid": true,
+    "english_sources": true,
+    "no_original_absolute_paths": true,
+    "no_external_python_helpers": true,
+    "final_panel_order_verified": true
+  },
+  "outputs": {
+    "files": 62,
+    "figure_files": 58,
+    "derived_tables": 4
+  },
+  "github_file_size_check": {
+    "all_files_below_100_MiB": true,
+    "largest_file_bytes": 25436782
+  },
+  "original_notebook_hashes_verified": [
+    {
+      "figure": 2,
+      "source_filename": "Figure 2.ipynb",
+      "sha256": "df24b962dba0569153a04f3ee36546fe7f11c0e38e1cb9cfe732df06229503fc"
+    },
+    {
+      "figure": 3,
+      "source_filename": "Figure 3.ipynb",
+      "sha256": "24ac89e941e0d8e11637593cd9fbf33c225d305b508a4fca49cec24917a94210"
+    },
+    {
+      "figure": 4,
+      "source_filename": "Figure 4.ipynb",
+      "sha256": "d93bf920b481091d4a143e2da77d7692e9d21f1f0d6bdacd9d4905841d153d4e"
+    }
+  ],
+  "limitations": [
+    "Figure 1a is intentionally excluded.",
+    "Figure 1c requires manual iTOL layout and export; the final appearance is not verified.",
+    "Figure 1b exports PDF and PNG only and retains its original overlapping left-side labels.",
+    "Upstream analysis pipelines and final composite figure assembly are outside this plotting package.",
+    "TIFF storage is lossless and uncompressed; fonts and rendering can vary across platforms."
+  ]
+}

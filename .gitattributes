@@ -1,0 +1,6 @@
+* text=auto eol=lf
+
+# Preserve exact bytes for input and notebook checksums and figure exports.
+data/** -text
+notebooks/** -text
+outputs/** -text

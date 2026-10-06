@@ -1,0 +1,15 @@
+carrier_group	genome_id	species	detected_in_dataset
+Complete (P. anaerobius)	GUT_GENOME003569	Peptostreptococcus anaerobius	True
+Complete (Pept. C & allies)	GUT_GENOME000611	Peptoniphilus_C sp902363535	True
+Complete (Pept. C & allies)	GUT_GENOME095982	Clostridium_F botulinum_A	True
+Complete (Pept. C & allies)	GUT_GENOME096493	Clostridium_F niameyense	False
+Complete (Pept. C & allies)	GUT_GENOME097942	Peptostreptococcus russellii_A	True
+Complete (Pept. C & allies)	GUT_GENOME098616	Peptostreptococcus russellii	False
+Complete (Pept. C & allies)	GUT_GENOME141698	Clostridium_F botulinum	True
+Complete (Pept. C & allies)	GUT_GENOME207305	Clostridium_F tepidum	True
+Dual Cassette	GUT_GENOME098791	Proteus cibarius	True
+Dual Cassette	GUT_GENOME145984	Proteus vulgaris	True
+Dual Cassette	GUT_GENOME142612	Proteus sp001722135	True
+Dual Cassette	GUT_GENOME140352	Leminorella grimontii	False
+Dual Cassette	GUT_GENOME231559	Phytobacter sp002377245	True
+Incomplete	GUT_GENOME031326	Eubacterium_M sp900540015	True

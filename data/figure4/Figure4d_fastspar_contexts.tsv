@@ -1,0 +1,29 @@
+genome_id	final_taxonomy_label	tier	context	fastspar_r
+GUT_GENOME283627	Copromonas sp. (GUT_GENOME283627)	Core Co-excluder	Full	-0.1401
+GUT_GENOME283627	Copromonas sp. (GUT_GENOME283627)	Core Co-excluder	Healthy	-0.1468
+GUT_GENOME283627	Copromonas sp. (GUT_GENOME283627)	Core Co-excluder	G2	-0.141
+GUT_GENOME283627	Copromonas sp. (GUT_GENOME283627)	Core Co-excluder	all14	-0.1401
+GUT_GENOME014039	Faecalibacterium sp. (GUT_GENOME014039)	Core Co-excluder	Full	-0.2152
+GUT_GENOME014039	Faecalibacterium sp. (GUT_GENOME014039)	Core Co-excluder	Healthy	-0.2445
+GUT_GENOME014039	Faecalibacterium sp. (GUT_GENOME014039)	Core Co-excluder	G2	-0.2371
+GUT_GENOME014039	Faecalibacterium sp. (GUT_GENOME014039)	Core Co-excluder	all14	-0.2152
+GUT_GENOME140074	Faecalibacterium prausnitzii_D	Supported Co-excluder	Full	-0.2048
+GUT_GENOME140074	Faecalibacterium prausnitzii_D	Supported Co-excluder	Healthy	-0.2365
+GUT_GENOME140074	Faecalibacterium prausnitzii_D	Supported Co-excluder	G2	-0.225
+GUT_GENOME140074	Faecalibacterium prausnitzii_D	Supported Co-excluder	all14	-0.2048
+GUT_GENOME062382	Dialister sp900541485	Core Co-colonizer	Full	0.3514
+GUT_GENOME062382	Dialister sp900541485	Core Co-colonizer	Healthy	0.3432
+GUT_GENOME062382	Dialister sp900541485	Core Co-colonizer	G2	0.3524
+GUT_GENOME062382	Dialister sp900541485	Core Co-colonizer	all14	0.3514
+GUT_GENOME244171	Prevotella timonensis	Core Co-colonizer	Full	0.3062
+GUT_GENOME244171	Prevotella timonensis	Core Co-colonizer	Healthy	0.3059
+GUT_GENOME244171	Prevotella timonensis	Core Co-colonizer	G2	0.3082
+GUT_GENOME244171	Prevotella timonensis	Core Co-colonizer	all14	0.3062
+GUT_GENOME239710	Prevotella disiens	Core Co-colonizer	Full	0.2983
+GUT_GENOME239710	Prevotella disiens	Core Co-colonizer	Healthy	0.3103
+GUT_GENOME239710	Prevotella disiens	Core Co-colonizer	G2	0.3015
+GUT_GENOME239710	Prevotella disiens	Core Co-colonizer	all14	0.2983
+GUT_GENOME140603	Anaerococcus obesiensis	Supported Co-colonizer	Full	0.4188
+GUT_GENOME140603	Anaerococcus obesiensis	Supported Co-colonizer	Healthy	0.4093
+GUT_GENOME140603	Anaerococcus obesiensis	Supported Co-colonizer	G2	0.3986
+GUT_GENOME140603	Anaerococcus obesiensis	Supported Co-colonizer	all14	0.4188

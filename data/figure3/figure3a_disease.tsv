@@ -1,0 +1,15 @@
+disease	estimable_status	is_estimable	k_studies	k_informative	n_cases	pos_cases	n_controls	pos_controls	total_n	primary_effect_type	primary_or	log2_primary_or	ci_lower	ci_upper	p_value	fdr_q	minus_log10_q	crude_or	plot_category	highlight_class
+AS	not_estimable_stratified	False	1	0	89	0	7606	172	7695	Not estimable by the prespecified stratified analysis								0.2408	Non-estimable Strip	Non_estimable
+Adenoma	estimable	True	3	2	222	6	7606	172	7828	Stratified Mantel-Haenszel OR	1.5916	0.6704	0.5258	4.8177	0.4079724990917865	0.498633	0.3022	1.2006	Main Bubble	Non_sig
+BoneDisease	estimable	True	2	2	97	2	7606	172	7703	Stratified Mantel-Haenszel OR	1.7582	0.8141	0.2189	14.1211	0.6171201624477003	0.639768	0.194	0.9099	Main Bubble	Non_sig
+CD	estimable	True	2	2	489	6	7606	172	8095	Stratified Mantel-Haenszel OR	1.278	0.3539	0.4126	3.9585	0.6397679852038907	0.639768	0.194	0.5369	Main Bubble	Non_sig
+CRC	estimable	True	7	6	514	59	7606	172	8120	Stratified Mantel-Haenszel OR	4.545	2.1843	2.3616	8.7468	1.1113977083088145e-06	1.2e-05	4.9127	5.6045	Main Bubble	CRC
+ME	not_estimable_stratified	False	1	0	122	0	7606	172	7728	Not estimable by the prespecified stratified analysis								0.1759	Non-estimable Strip	Non_estimable
+MS	estimable	True	1	1	728	56	7606	172	8334	Stratified Mantel-Haenszel OR	1.775	0.8278	1.1245	2.8019	0.0127318549026186	0.046683	1.3308	3.6017	Main Bubble	FDR_sig
+NAFLD	not_estimable_stratified	False	0	0	84	2	7606	172	7690	Not estimable by the prespecified stratified analysis								1.0542	Non-estimable Strip	Non_estimable
+Obesity	estimable	True	16	12	858	25	7606	172	8464	Stratified Mantel-Haenszel OR	1.3225	0.4032	0.7986	2.1899	0.2701000759529397	0.481267	0.3176	1.2971	Main Bubble	Non_sig
+Parkinson	estimable	True	2	2	249	12	7606	172	7855	Stratified Mantel-Haenszel OR	1.9831	0.9878	0.5344	7.3597	0.3062609775694044	0.481267	0.3176	2.1884	Main Bubble	Non_sig
+RA	estimable	True	1	1	132	3	7606	172	7738	Stratified Mantel-Haenszel OR	0.5116	-0.9668	0.1118	2.3423	0.3809323294052984	0.498633	0.3022	1.0051	Main Bubble	Non_sig
+T1D	not_estimable_stratified	False	3	2	152	0	7606	172	7758	Not estimable by the prespecified stratified analysis								0.1413	Non-estimable Strip	Non_estimable
+T2D	estimable	True	2	2	420	13	7606	172	8026	Stratified Mantel-Haenszel OR	2.3969	1.2611	0.5372	10.6939	0.2729703343950548	0.481267	0.3176	1.3805	Main Bubble	Non_sig
+UC	estimable	True	4	4	476	23	7606	172	8082	Stratified Mantel-Haenszel OR	3.6501	1.8679	1.5937	8.3598	0.0011137254206182	0.006125	2.2129	2.1944	Main Bubble	FDR_sig

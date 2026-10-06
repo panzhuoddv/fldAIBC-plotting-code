@@ -1,0 +1,73 @@
+DATASET_SYMBOL
+SEPARATOR TAB
+DATASET_LABEL	Lineage Symbols
+COLOR	#E64B35
+MAXIMUM_SIZE	18
+LEGEND_TITLE	Lineage Symbols
+LEGEND_SHAPES	1	3	2	3	5
+LEGEND_COLORS	#E64B35	#3C5488	#D9534F	#0275D8	#7F7F7F
+LEGEND_LABELS	Fld Lineage (Red Dot)	Had Lineage (Blue Square)	Known POS Reference	Known NEG Reference	Outgroup Reference
+DATA
+C01_HIGH_CONF_Clostridium_botulinum_A_s_GCF_000063585.1	1	13	#E64B35	1	1	Fld Lineage (Red Dot)
+C02_HIGH_CONF_Peptostreptococcus_anaero_GCF_000178095.1	1	13	#E64B35	1	1	Fld Lineage (Red Dot)
+C03_EXCLUDED_Pseudoramibacter_alactoly_GCF_000185505.1	3	13	#3C5488	1	1	Had Lineage (Blue Square)
+C04_EXCLUDED_Faecalispora_sporosphaero_GCF_000383295.1	3	13	#3C5488	1	1	Had Lineage (Blue Square)
+C05_EXCLUDED_Proteocatella_sphenisci_D_GCF_000423525.1	3	13	#3C5488	1	1	Had Lineage (Blue Square)
+C06_HIGH_CONF_Clostridiisalibacter_pauc_GCF_000620125.1	1	13	#E64B35	1	1	Fld Lineage (Red Dot)
+C07_EXCLUDED_Peptoclostridium_litorale_GCF_000699585.2	1	13	#E64B35	1	1	Fld Lineage (Red Dot)
+C08_HIGH_CONF_Clostridium_sporogenes_GCF_000973705.1	1	13	#E64B35	1	1	Fld Lineage (Red Dot)
+C09_EXCLUDED_Paraclostridium_benzoelyt_GCF_001006285.1	3	13	#3C5488	1	1	Had Lineage (Blue Square)
+C10_HIGH_CONF_Clostridium_niameyense_GCF_001243045.1	1	13	#E64B35	1	1	Fld Lineage (Red Dot)
+C11_HIGH_CONF_Peptoniphilus_coxii_GCF_001553115.1	1	13	#E64B35	1	1	Fld Lineage (Red Dot)
+C12_EXCLUDED_Abyssisolibacter_fermenta_GCF_001559865.1	3	13	#3C5488	1	1	Had Lineage (Blue Square)
+C13_EXCLUDED_Clostridium_tyrobutyricum_GCF_001642655.1	3	13	#3C5488	1	1	Had Lineage (Blue Square)
+C14_EXCLUDED_Peptidiphaga_gingivicola_GCF_001652275.1	1	13	#E64B35	1	1	Fld Lineage (Red Dot)
+C15_HIGH_CONF_Clostridium_tepidum_GCF_002008345.1	1	13	#E64B35	1	1	Fld Lineage (Red Dot)
+C16_EXCLUDED_Proteus_alimentorum_GCF_002607735.1	1	13	#E64B35	1	1	Fld Lineage (Red Dot)
+C17_HIGH_CONF_Clostridium_combesii_GCF_002749945.1	1	13	#E64B35	1	1	Fld Lineage (Red Dot)
+C18_EXCLUDED_Proteus_columbae_GCF_002777965.1	1	13	#E64B35	1	1	Fld Lineage (Red Dot)
+C19_EXCLUDED_Paraclostridium_sordellii_GCF_002865995.1	3	13	#3C5488	1	1	Had Lineage (Blue Square)
+C20_HIGH_CONF_Peptostreptococcus_russel_GCF_003012055.1	1	13	#E64B35	1	1	Fld Lineage (Red Dot)
+C21_EXCLUDED_Enterocloster_lavalensis_GCF_003024655.1	3	13	#3C5488	1	1	Had Lineage (Blue Square)
+C22_EXCLUDED_Brenneria_roseae_subsp._a_GCF_003115815.1	1	13	#E64B35	1	1	Fld Lineage (Red Dot)
+C23_EXCLUDED_Proteus_cibi_GCF_003144405.1	1	13	#E64B35	1	1	Fld Lineage (Red Dot)
+C24_EXCLUDED_Lachnoanaerobaculum_gingi_GCF_003862475.1	3	13	#3C5488	1	1	Had Lineage (Blue Square)
+C25_EXCLUDED_Lachnoanaerobaculum_orale_GCF_003862485.1	3	13	#3C5488	1	1	Had Lineage (Blue Square)
+C26_EXCLUDED_Proteus_hauseri_GCF_004116975.1	1	13	#E64B35	1	1	Fld Lineage (Red Dot)
+C27_EXCLUDED_Intestinimonas_butyricipr_GCF_004154955.1	3	13	#3C5488	1	1	Had Lineage (Blue Square)
+C28_HIGH_CONF_Peptostreptococcus_porci_GCF_009695815.1	1	13	#E64B35	1	1	Fld Lineage (Red Dot)
+C29_EXCLUDED_Proteus_terrae_subsp._cib_GCF_011045835.1	1	13	#E64B35	1	1	Fld Lineage (Red Dot)
+C30_EXCLUDED_Paraclostridium_dentum_GCF_012922555.1	3	13	#3C5488	1	1	Had Lineage (Blue Square)
+C31_HIGH_CONF_Acetobacterium_malicum_GCF_014284495.1	1	13	#E64B35	1	1	Fld Lineage (Red Dot)
+C32_EXCLUDED_Agathobaculum_faecis_GCF_014287995.1	3	13	#3C5488	1	1	Had Lineage (Blue Square)
+C33_HIGH_CONF_Gallibacter_intestinalis_GCF_014982745.1	1	13	#E64B35	1	1	Fld Lineage (Red Dot)
+C34_EXCLUDED_Fusibacter_ferrireducens_GCF_015352425.1	3	13	#3C5488	1	1	Had Lineage (Blue Square)
+C35_EXCLUDED_Metaclostridioides_mangen_GCF_017873185.1	3	13	#3C5488	1	1	Had Lineage (Blue Square)
+C36_HIGH_CONF_Peptostreptococcus_canis_GCF_017874285.1	1	13	#E64B35	1	1	Fld Lineage (Red Dot)
+C37_EXCLUDED_Clostridioides_difficile_GCF_018885085.1	3	13	#3C5488	1	1	Had Lineage (Blue Square)
+C38_EXCLUDED_Symbiopectobacterium_purc_GCF_019797845.1	1	13	#E64B35	1	1	Fld Lineage (Red Dot)
+C39_EXCLUDED_Crassaminicella_profunda_GCF_019884785.1	3	13	#3C5488	1	1	Had Lineage (Blue Square)
+C40_EXCLUDED_Paraclostridium_biferment_GCF_019916025.1	3	13	#3C5488	1	1	Had Lineage (Blue Square)
+C41_EXCLUDED_Proteus_penneri_GCF_022369495.1	1	13	#E64B35	1	1	Fld Lineage (Red Dot)
+C42_EXCLUDED__Clostridium__asparagifor_GCF_025149125.1	3	13	#3C5488	1	1	Had Lineage (Blue Square)
+C43_EXCLUDED_Proteus_vulgaris_GCF_025200655.1	1	13	#E64B35	1	1	Fld Lineage (Red Dot)
+C44_HIGH_CONF_Aedoeadaptatus_acetigenes_GCF_025566985.1	1	13	#E64B35	1	1	Fld Lineage (Red Dot)
+C45_EXCLUDED_Agathobaculum_ammoniilyti_GCF_025567315.1	3	13	#3C5488	1	1	Had Lineage (Blue Square)
+C46_HIGH_CONF_Peptostreptococcus_equinu_GCF_027125355.1	1	13	#E64B35	1	1	Fld Lineage (Red Dot)
+C47_EXCLUDED_Proteus_appendicitidis_GCF_030271835.1	1	13	#E64B35	1	1	Fld Lineage (Red Dot)
+C48_EXCLUDED_Proteus_faecis_GCF_030286765.1	1	13	#E64B35	1	1	Fld Lineage (Red Dot)
+C49_HIGH_CONF_Acetobacterium_bakii_GCF_900235925.1	1	13	#E64B35	1	1	Fld Lineage (Red Dot)
+C50_HIGH_CONF_Peptostreptococcus_faecal_GCF_900240845.1	1	13	#E64B35	1	1	Fld Lineage (Red Dot)
+C51_EXCLUDED_Agathobaculum_massiliense_GCF_900291975.1	3	13	#3C5488	1	1	Had Lineage (Blue Square)
+C52_HIGH_CONF_Aedoeadaptatus_coli_GCF_900343085.1	1	13	#E64B35	1	1	Fld Lineage (Red Dot)
+C53_EXCLUDED_Clostridium_transplantifa_GCF_900626075.1	3	13	#3C5488	1	1	Had Lineage (Blue Square)
+C54_HIGH_CONF_Peptoniphilus_nemausensis_GCF_903819165.1	1	13	#E64B35	1	1	Fld Lineage (Red Dot)
+C55_HIGH_CONF_Peptoniphilus_rachelemmai_GCF_943169845.1	1	13	#E64B35	1	1	Fld Lineage (Red Dot)
+C56_EXCLUDED_Faecalispora_anaeroviscer_GCF_947568225.1	3	13	#3C5488	1	1	Had Lineage (Blue Square)
+REF_POS_C_sporogenes	2	16	#D9534F	1	1	Known POS Reference
+REF_POS_P_anaerobius	2	16	#D9534F	1	1	Known POS Reference
+REF_POS_P_russellii	2	16	#D9534F	1	1	Known POS Reference
+REF_NEG_C_difficile_had	3	15	#0275D8	1	1	Known NEG Reference
+REF_NEG_C_sporogenes_had	3	15	#0275D8	1	1	Known NEG Reference
+REF_NEG_P_russellii_had	3	15	#0275D8	1	1	Known NEG Reference
+REF_NEG_A_fermentans_hgd	5	15	#7F7F7F	1	1	Outgroup Reference
